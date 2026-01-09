@@ -1,0 +1,5 @@
+{
+  "name": "MedTrack Hospital Monitor",
+  "description": "A high-performance hospital bed occupancy monitoring and report generation system featuring real-time tracking, AI-powered usage analysis, and automated medical reporting.",
+  "requestFramePermissions": []
+}
